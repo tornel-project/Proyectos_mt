@@ -1,0 +1,16 @@
+body{
+    background: url("../img/fondo-vg.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	background-color: #444;
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}
+
+.img-responsive {
+    padding-bottom: 20px;
+}
